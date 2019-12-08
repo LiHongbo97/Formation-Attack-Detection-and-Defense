@@ -9,7 +9,7 @@ And there is an attacker who is red:
 ![image](https://github.com/redglassli/Formation-Attack-Detection-and-Defense/blob/master/pic/attacker.jpg)
 
 After a long time, the formation can detect the robot who is being attacked by SVM:
-![image](https://github.com/redglassli/Formation-Attack-Detection-and-Defense/blob/master/pic/detection result.jpg)
+![image](https://github.com/redglassli/Formation-Attack-Detection-and-Defense/blob/master/pic/detection%result.jpg)
 
 After that, we output the path and the S to verify it:
 ![image](https://github.com/redglassli/Formation-Attack-Detection-and-Defense/blob/master/pic/path.jpg)
